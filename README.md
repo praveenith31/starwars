@@ -1,1 +1,5 @@
-# starwars here
+
+
+## Development
+
+Run: "npm i && npm start"
